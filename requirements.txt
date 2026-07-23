@@ -1,8 +1,8 @@
 streamlit
 streamlit-webrtc
 opencv-python-headless
-numpy==1.26.4
 PyMuPDF
-mediapipe==0.10.14
 Pillow
 av
+protobuf<5,>=3.20.2
+mediapipe
