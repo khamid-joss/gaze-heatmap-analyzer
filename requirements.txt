@@ -1,8 +1,8 @@
-streamlit==1.32.0
-streamlit-webrtc==0.47.0
-opencv-python-headless==4.9.0.80
-numpy<2
-PyMuPDF==1.24.0
-mediapipe==0.10.14
+streamlit
+streamlit-webrtc
+opencv-python-headless
+numpy<2.0.0
+PyMuPDF
+mediapipe
 Pillow
 av
